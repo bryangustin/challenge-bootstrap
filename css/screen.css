@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(232,239,245);
+}
+.text{
+    margin: 10px;
+    background-color: white;
+    padding: 20px;
+}
+.text_1{
+    width: 10%;
+}
+.shadow-b:hover{
+    box-shadow: 1px 1px 15px grey !important;
+    transition: 1s;
+}
+
